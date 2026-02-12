@@ -1,11 +1,18 @@
-<div align="center">
+# 🗺️ India Virtual Tour Guide
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An AI-powered, interactive discovery platform for Indian heritage sites. This app uses real-time geolocation to find nearby monuments and features a Gemini-powered AI historian to guide you through India's rich history.
 
-  <h1>Built with AI Studio</h2>
+## ✨ Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **📍 Smart Geolocation:** Automatically detects your current location and highlights the nearest Indian monuments.
+- **🤖 Gemini AI Chatbot:** A built-in "Historian Guide" that provides deep insights, stories, and facts about every site.
+- **🗺️ Interactive Map:** A custom map interface to explore India's landmarks visually.
+- **🇮🇳 Multilingual Support:** Toggle between English, Hindi, Bengali, Marathi, and Tamil.
+- **🌓 Theme Toggle:** Switch between "Royal Light" and "Deep Heritage" Dark mode.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Tech Stack
 
-</div>
+- **Frontend:** React.js, Tailwind CSS
+- **AI:** Google Gemini API (via Google AI Studio)
+- **Maps:** Leaflet.js / React-Leaflet
+- **Icons:** Lucide-React
