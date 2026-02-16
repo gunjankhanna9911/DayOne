@@ -1,11 +1,11 @@
-<div align="center">
+# TEAM — AI Product Development Platform
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Overview
 
-  <h1>Built with AI Studio</h2>
+**TEAM** is an AI-driven product development platform focused on transforming ideas into scalable digital products. It brings together product strategy, design, engineering, and artificial intelligence into a unified ecosystem that supports the full product lifecycle — from concept to deployment.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+The platform is built to help startups, founders, and businesses accelerate innovation while maintaining high standards of performance, usability, and scalability.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
 
-</div>
+
+**TEAM** operates as both a development platform and a strategic partner, enabling modern builders to move from idea to launch with clarity, speed, and technical excellence.
