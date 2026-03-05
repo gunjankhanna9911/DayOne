@@ -1,11 +1,11 @@
-<div align="center">
+# [Project Title]
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A brief description of what this project does and its purpose.
 
-  <h1>Built with AI Studio</h2>
+## Getting Started
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Provide instructions on how to set up and run your project.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Usage
 
-</div>
+Show examples of how to use your project.
